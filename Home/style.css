@@ -1,0 +1,55 @@
+.menu_bar{
+  background-color : #f57f17;
+  height: 70;
+  width : 1333;
+}
+
+.colored:hover{
+	background-color: #455a64;
+}
+
+.pie_pagina{
+  background-color : #f57f17;
+
+  position : absolute;
+  width : 1333;
+  bottom: 0;
+  
+  height: absolute;
+}
+
+.img_box{
+	margin-left: 80;
+	/*margin-right: 150;*/
+
+	height: 150;
+	width: 1000;
+}
+
+.foto_dim{
+	margin-left: 80;
+	/*margin-right: 150;*/
+
+	height: 400;
+	width: 1000;
+}
+
+input{
+	width:500px;
+	height:20px;
+
+}
+
+input.due{
+	width:500px;
+	height:200px;
+}
+
+button{
+	margin-left:440px;
+	width:60px;
+	height:30px;
+	background:gray;
+	border:none;
+	border-radius:2px;
+}
